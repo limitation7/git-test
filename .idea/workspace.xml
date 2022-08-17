@@ -13,7 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da8a193-28f1-4fd2-bfd5-d764d4916986" name="Default Changelist" comment="third commit">
+    <list default="true" id="3da8a193-28f1-4fd2-bfd5-d764d4916986" name="Default Changelist" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/denghuo/gittest/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/denghuo/gittest/GitTest.java" afterDir="false" />
     </list>
@@ -139,7 +139,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="hot-fix commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1051" y="273" key="FileChooserDialogImpl" timestamp="1660724794928">
