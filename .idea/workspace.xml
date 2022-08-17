@@ -13,7 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da8a193-28f1-4fd2-bfd5-d764d4916986" name="Default Changelist" comment="first commit">
+    <list default="true" id="3da8a193-28f1-4fd2-bfd5-d764d4916986" name="Default Changelist" comment="third commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/denghuo/gittest/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/denghuo/gittest/GitTest.java" afterDir="false" />
     </list>
@@ -32,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="3f7be3a79fb05afc181f07bbadcc57101a7b2633" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +40,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+        <option name="mavenHome" value="C:\Users\61406\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\Program Files\maven\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -71,13 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,6 +97,7 @@
         <item itemvalue="Application.GitTest" />
         <item itemvalue="Application.GitTest" />
         <item itemvalue="Application.GitTest" />
+        <item itemvalue="Application.GitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660723922759</updated>
       <workItem from="1660723925329" duration="2006000" />
+      <workItem from="1660733835063" duration="3428000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1660725303155</created>
@@ -142,25 +146,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1051" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1660724794928" />
-    <state width="1464" height="272" key="GridCell.Tab.0.bottom" timestamp="1660725305564">
+    <state width="1464" height="272" key="GridCell.Tab.0.bottom" timestamp="1660733802904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1464" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1660725305564" />
-    <state width="1464" height="272" key="GridCell.Tab.0.center" timestamp="1660725305564">
+    <state width="1464" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1660733802904" />
+    <state width="1464" height="272" key="GridCell.Tab.0.center" timestamp="1660733802903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1464" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1660725305564" />
-    <state width="1464" height="272" key="GridCell.Tab.0.left" timestamp="1660725305563">
+    <state width="1464" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1660733802903" />
+    <state width="1464" height="272" key="GridCell.Tab.0.left" timestamp="1660733802903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1464" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1660725305563" />
-    <state width="1464" height="272" key="GridCell.Tab.0.right" timestamp="1660725305564">
+    <state width="1464" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1660733802903" />
+    <state width="1464" height="272" key="GridCell.Tab.0.right" timestamp="1660733802904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1464" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1660725305564" />
+    <state width="1464" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1660733802904" />
+    <state x="368" y="88" key="MergeDialog" timestamp="1660732449669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="88" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1660732449669" />
     <state x="772" y="163" key="SettingsEditor" timestamp="1660724374300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="772" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1660724374300" />
+    <state x="1274" y="235" key="git4idea.branch.GitSmartOperationDialog" timestamp="1660732463122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1274" y="235" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1660732463122" />
+    <state x="663" y="182" key="new project wizard" timestamp="1660733851347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="182" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1660733851347" />
   </component>
 </project>
