@@ -13,8 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da8a193-28f1-4fd2-bfd5-d764d4916986" name="Default Changelist" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3da8a193-28f1-4fd2-bfd5-d764d4916986" name="Default Changelist" comment="hot-fix commit2">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/denghuo/gittest/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/denghuo/gittest/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660725303155</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hot-fix commit2">
+      <created>1660748759951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660748759951</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +146,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="hot-fix commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit1" />
+    <MESSAGE value="hot-fix commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1051" y="273" key="FileChooserDialogImpl" timestamp="1660724794928">
