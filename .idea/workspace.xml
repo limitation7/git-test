@@ -13,8 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da8a193-28f1-4fd2-bfd5-d764d4916986" name="Default Changelist" comment="master commit2">
+    <list default="true" id="3da8a193-28f1-4fd2-bfd5-d764d4916986" name="Default Changelist" comment="push commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/denghuo/gittest/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/denghuo/gittest/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +109,7 @@
       <updated>1660723922759</updated>
       <workItem from="1660723925329" duration="2006000" />
       <workItem from="1660733835063" duration="3428000" />
+      <workItem from="1660784569131" duration="835000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1660725303155</created>
@@ -144,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660749111204</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="push commit">
+      <created>1660784724600</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660784724600</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +178,8 @@
     <MESSAGE value="hot-fix commit3" />
     <MESSAGE value="hot-fix commit5" />
     <MESSAGE value="master commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="master commit2" />
+    <MESSAGE value="push commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="push commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1051" y="273" key="FileChooserDialogImpl" timestamp="1660724794928">
@@ -208,6 +218,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="772" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1660750191567" />
+    <state x="959" y="259" key="Vcs.Push.Dialog.v2" timestamp="1660785408875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="959" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1660785408875" />
     <state x="1274" y="235" key="git4idea.branch.GitSmartOperationDialog" timestamp="1660732463122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
